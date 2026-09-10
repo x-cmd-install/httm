@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1856164,
       "digest": "sha256:f04a2c99f0e6bfc2275ff4413183aefcff3c35f422aa3907a9bb11ec4969bf2c",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-06-30T03:15:05Z",
       "updated_at": "2026-06-30T03:15:06Z",
       "browser_download_url": "https://github.com/kimono-koans/httm/releases/download/0.50.2/httm-0.50.2-2.x86_64.rpm"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1535188,
       "digest": "sha256:359c2eda542ac2e1c3c6d79d66cef4e2bc585851eeafc3c11c8a9851f0a05775",
-      "download_count": 164,
+      "download_count": 167,
       "created_at": "2026-06-30T03:15:05Z",
       "updated_at": "2026-06-30T03:15:06Z",
       "browser_download_url": "https://github.com/kimono-koans/httm/releases/download/0.50.2/httm_0.50.2-1_amd64.deb"
