@@ -1,0 +1,362 @@
+- repo: alpine_3_17
+  subrepo: community
+  srcname: httm
+  binname: httm
+  visiblename: httm
+  version: 0.17.5
+  origversion: 0.17.5-r0
+  status: outdated
+  summary: Interactive, file-level Time Machine-like tool for ZFS/btrfs
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MPL-2.0
+- repo: alpine_3_17
+  subrepo: community
+  srcname: httm
+  binname: httm-doc
+  visiblename: httm-doc
+  version: 0.17.5
+  origversion: 0.17.5-r0
+  status: outdated
+  summary: Interactive, file-level Time Machine-like tool for ZFS/btrfs (documentation)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MPL-2.0
+- repo: alpine_3_18
+  subrepo: community
+  srcname: httm
+  binname: httm
+  visiblename: httm
+  version: 0.26.5
+  origversion: 0.26.5-r0
+  status: outdated
+  summary: Interactive, file-level Time Machine-like tool for ZFS/btrfs
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MPL-2.0
+- repo: alpine_3_18
+  subrepo: community
+  srcname: httm
+  binname: httm-doc
+  visiblename: httm-doc
+  version: 0.26.5
+  origversion: 0.26.5-r0
+  status: outdated
+  summary: Interactive, file-level Time Machine-like tool for ZFS/btrfs (documentation)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MPL-2.0
+- repo: alpine_3_19
+  subrepo: community
+  srcname: httm
+  binname: httm
+  visiblename: httm
+  version: 0.32.3
+  origversion: 0.32.3-r0
+  status: outdated
+  summary: Interactive, file-level Time Machine-like tool for ZFS/btrfs
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MPL-2.0
+- repo: alpine_3_19
+  subrepo: community
+  srcname: httm
+  binname: httm-doc
+  visiblename: httm-doc
+  version: 0.32.3
+  origversion: 0.32.3-r0
+  status: outdated
+  summary: Interactive, file-level Time Machine-like tool for ZFS/btrfs (documentation)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MPL-2.0
+- repo: alpine_3_20
+  subrepo: community
+  srcname: httm
+  binname: httm
+  visiblename: httm
+  version: 0.38.1
+  origversion: 0.38.1-r0
+  status: outdated
+  summary: Interactive, file-level Time Machine-like tool for ZFS/btrfs
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MPL-2.0
+- repo: alpine_3_20
+  subrepo: community
+  srcname: httm
+  binname: httm-doc
+  visiblename: httm-doc
+  version: 0.38.1
+  origversion: 0.38.1-r0
+  status: outdated
+  summary: Interactive, file-level Time Machine-like tool for ZFS/btrfs (documentation)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MPL-2.0
+- repo: alpine_3_21
+  subrepo: community
+  srcname: httm
+  binname: httm
+  visiblename: httm
+  version: 0.43.2
+  origversion: 0.43.2-r0
+  status: outdated
+  summary: Interactive, file-level Time Machine-like tool for ZFS/btrfs
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MPL-2.0
+- repo: alpine_3_21
+  subrepo: community
+  srcname: httm
+  binname: httm-doc
+  visiblename: httm-doc
+  version: 0.43.2
+  origversion: 0.43.2-r0
+  status: outdated
+  summary: Interactive, file-level Time Machine-like tool for ZFS/btrfs (documentation)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MPL-2.0
+- repo: alpine_3_22
+  subrepo: community
+  srcname: httm
+  binname: httm
+  visiblename: httm
+  version: 0.46.10
+  origversion: 0.46.10-r0
+  status: outdated
+  summary: Interactive, file-level Time Machine-like tool for ZFS/btrfs
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MPL-2.0
+- repo: alpine_3_22
+  subrepo: community
+  srcname: httm
+  binname: httm-doc
+  visiblename: httm-doc
+  version: 0.46.10
+  origversion: 0.46.10-r0
+  status: outdated
+  summary: Interactive, file-level Time Machine-like tool for ZFS/btrfs (documentation)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MPL-2.0
+- repo: alpine_3_23
+  subrepo: community
+  srcname: httm
+  binname: httm
+  visiblename: httm
+  version: 0.46.10
+  origversion: 0.46.10-r0
+  status: outdated
+  summary: Interactive, file-level Time Machine-like tool for ZFS/btrfs
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MPL-2.0
+- repo: alpine_3_23
+  subrepo: community
+  srcname: httm
+  binname: httm-doc
+  visiblename: httm-doc
+  version: 0.46.10
+  origversion: 0.46.10-r0
+  status: outdated
+  summary: Interactive, file-level Time Machine-like tool for ZFS/btrfs (documentation)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MPL-2.0
+- repo: alpine_3_24
+  subrepo: community
+  srcname: httm
+  binname: httm
+  visiblename: httm
+  version: 0.49.9
+  origversion: 0.49.9-r0
+  status: outdated
+  summary: Interactive, file-level Time Machine-like tool for ZFS/btrfs
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MPL-2.0
+- repo: alpine_3_24
+  subrepo: community
+  srcname: httm
+  binname: httm-doc
+  visiblename: httm-doc
+  version: 0.49.9
+  origversion: 0.49.9-r0
+  status: outdated
+  summary: Interactive, file-level Time Machine-like tool for ZFS/btrfs (documentation)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MPL-2.0
+- repo: alpine_edge
+  subrepo: community
+  srcname: httm
+  binname: httm
+  visiblename: httm
+  version: 0.49.9
+  origversion: 0.49.9-r0
+  status: outdated
+  summary: Interactive, file-level Time Machine-like tool for ZFS/btrfs
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MPL-2.0
+- repo: alpine_edge
+  subrepo: community
+  srcname: httm
+  binname: httm-doc
+  visiblename: httm-doc
+  version: 0.49.9
+  origversion: 0.49.9-r0
+  status: outdated
+  summary: Interactive, file-level Time Machine-like tool for ZFS/btrfs (documentation)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MPL-2.0
+- repo: aur
+  srcname: httm
+  binname: httm
+  visiblename: httm
+  version: 0.50.2
+  origversion: 0.50.2-1
+  status: newest
+  summary: Prints the size, date and locations of available unique versions (deduplicated by modify time and size) of files residing on ZFS, BTRFS, or NILFS snapshots.
+  maintainers:
+    - xgjmibzr@aur
+  licenses:
+    - MPL-2.0
+- repo: aur
+  srcname: httm-bin
+  binname: httm-bin
+  visiblename: httm-bin
+  version: 0.50.2
+  origversion: 0.50.2-1
+  status: newest
+  summary: Prints the size, date and locations of available unique versions (deduplicated by modify time and size) of files residing on ZFS, BTRFS, or NILFS snapshots. (binary .deb)
+  maintainers:
+    - xgjmibzr@aur
+  licenses:
+    - MPL-2.0
+- repo: aur
+  srcname: httm-git
+  binname: httm-git
+  visiblename: httm-git
+  version: r2286.67c7ce3
+  origversion: r2286.67c7ce3-1
+  status: rolling
+  summary: Prints the size, date and locations of available unique versions (deduplicated by modify time and size) of files residing on ZFS, BTRFS, or NILFS snapshots.
+  maintainers:
+    - xgjmibzr@aur
+  licenses:
+    - MPL-2.0
+- repo: freebsd
+  srcname: sysutils/httm
+  binname: httm
+  visiblename: sysutils/httm
+  version: 0.50.2
+  origversion: 0.50.2_2
+  status: newest
+  summary: Dream of a CLI Time Machine
+  maintainers:
+    - bofh@freebsd.org
+  categories:
+    - sysutils
+- repo: homebrew
+  srcname: httm
+  visiblename: httm
+  version: 0.50.2
+  origversion: null
+  status: newest
+  summary: Interactive, file-level Time Machine-like tool for ZFS/btrfs
+- repo: homebrew
+  srcname: httm
+  visiblename: httm
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Interactive, file-level Time Machine-like tool for ZFS/btrfs
+- repo: nix_stable_24_05
+  srcname: httm
+  visiblename: httm
+  version: 0.23.3
+  origversion: null
+  status: outdated
+  summary: Interactive, file-level Time Machine-like tool for ZFS/btrfs
+  maintainers:
+    - wyndon@github
+  licenses:
+    - MPL-2.0
+- repo: nix_stable_24_11
+  srcname: httm
+  visiblename: httm
+  version: 0.43.2
+  origversion: null
+  status: outdated
+  summary: Interactive, file-level Time Machine-like tool for ZFS/btrfs
+  maintainers:
+    - wyndon@github
+  licenses:
+    - MPL-2.0
+- repo: nix_stable_25_05
+  srcname: httm
+  visiblename: httm
+  version: 0.47.0
+  origversion: null
+  status: outdated
+  summary: Interactive, file-level Time Machine-like tool for ZFS/btrfs
+  maintainers:
+    - wyndon@github
+  licenses:
+    - MPL-2.0
+- repo: nix_stable_25_11
+  srcname: httm
+  visiblename: httm
+  version: 0.49.9
+  origversion: null
+  status: outdated
+  summary: Interactive, file-level Time Machine-like tool for ZFS/btrfs
+  maintainers:
+    - wyndon@github
+  licenses:
+    - MPL-2.0
+- repo: nix_stable_26_05
+  srcname: httm
+  visiblename: httm
+  version: 0.49.9
+  origversion: null
+  status: outdated
+  summary: Interactive, file-level Time Machine-like tool for ZFS/btrfs
+  maintainers:
+    - wyndon@github
+  licenses:
+    - MPL-2.0
+- repo: nix_unstable
+  srcname: httm
+  visiblename: httm
+  version: 0.50.2
+  origversion: null
+  status: newest
+  summary: Interactive, file-level Time Machine-like tool for ZFS/btrfs
+  maintainers:
+    - wyndon@github
+  licenses:
+    - MPL-2.0
