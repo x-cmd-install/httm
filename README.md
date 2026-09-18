@@ -14,14 +14,14 @@ x install httm
 
 ## Code insight
 
-Total: **16,152** lines of code across **48** files in the top 5 languages.
+Total: **16,151** lines of code across **48** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 8,911 | 1,083 | 1,386 | 37 |
 | Html | 5,714 | 0 | 934 | 1 |
 | Bash | 1,221 | 201 | 267 | 7 |
-| Toml | 183 | 2 | 21 | 2 |
+| Toml | 182 | 2 | 21 | 2 |
 | Handlebars | 72 | 0 | 11 | 1 |
 
 ## Source
@@ -32,35 +32,35 @@ Total: **16,152** lines of code across **48** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `0.50.2` (2026-06-30)
-- **Last commit**: 2026-09-09
+- **Latest**: `0.51.0` (2026-09-18)
+- **Last commit**: 2026-09-18
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 1,661 · **Forks**: 36 · **Open issues**: 62 · **Contributors**: 5
+- **Stars**: 1,661 · **Forks**: 36 · **Open issues**: 63 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 173 · **Merged PRs**: 91 · **Open PRs**: 0 · **Closed issues**: 57 · **Open issues**: 5 · **Commits**: 4709
+- **Releases**: 174 · **Merged PRs**: 91 · **Open PRs**: 0 · **Closed issues**: 57 · **Open issues**: 6 · **Commits**: 4710
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 5 |
-| last60d | 2026-07-19 | 0 | 0 | 0 | 1 | 0 | 18 |
-| 90d | 2026-06-19 | 1 | 0 | 0 | 1 | 0 | 26 |
-| last180d | 2026-03-21 | 3 | 2 | 0 | 4 | 0 | 62 |
-| 360d | 2025-09-22 | 16 | 5 | 0 | 6 | 0 | 349 |
-| last720d | 2024-09-27 | 45 | 12 | 0 | 11 | 1 | 719 |
+| 30d | 2026-08-19 | 1 | 0 | 0 | 0 | 1 | 6 |
+| last60d | 2026-07-20 | 1 | 0 | 0 | 1 | 1 | 19 |
+| 90d | 2026-06-20 | 2 | 0 | 0 | 1 | 1 | 27 |
+| last180d | 2026-03-22 | 4 | 2 | 0 | 4 | 1 | 63 |
+| 360d | 2025-09-23 | 17 | 5 | 0 | 6 | 1 | 350 |
+| last720d | 2024-09-28 | 46 | 12 | 0 | 11 | 2 | 718 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [httm-0.50.2-2.x86_64.rpm](https://github.com/kimono-koans/httm/releases/download/0.50.2/httm-0.50.2-2.x86_64.rpm) | 1.8 MiB | `runtime/rpm/x86_64` |
-| [httm_0.50.2-1_amd64.deb](https://github.com/kimono-koans/httm/releases/download/0.50.2/httm_0.50.2-1_amd64.deb) | 1.5 MiB | `runtime/deb/amd64` |
+| [httm-0.51.0-2.x86_64.rpm](https://github.com/kimono-koans/httm/releases/download/0.51.0/httm-0.51.0-2.x86_64.rpm) | 5.5 MiB | `runtime/rpm/x86_64` |
+| [httm_0.51.0-1_amd64.deb](https://github.com/kimono-koans/httm/releases/download/0.51.0/httm_0.51.0-1_amd64.deb) | 5.2 MiB | `runtime/deb/amd64` |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for httm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T06:38:20Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T06:18:34Z._
