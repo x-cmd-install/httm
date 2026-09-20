@@ -4,7 +4,7 @@
 
 Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)
 
-![httm](https://repo.x-cmd.io/httm.svg)
+[![x-cmd/install — httm Code Quality Monitoring Repo Card](https://repo.x-cmd.io/httm.svg)](https://x-cmd.com/install/httm)
 
 ## Install
 
@@ -48,12 +48,12 @@ Total: **16,151** lines of code across **48** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 0 | 0 | 0 | 1 | 6 |
-| last60d | 2026-07-20 | 1 | 0 | 0 | 1 | 1 | 19 |
-| 90d | 2026-06-20 | 2 | 0 | 0 | 1 | 1 | 27 |
-| last180d | 2026-03-22 | 4 | 2 | 0 | 4 | 1 | 63 |
-| 360d | 2025-09-23 | 17 | 5 | 0 | 6 | 1 | 350 |
-| last720d | 2024-09-28 | 46 | 12 | 0 | 11 | 2 | 718 |
+| 30d | 2026-08-21 | 1 | 0 | 0 | 0 | 1 | 5 |
+| last60d | 2026-07-22 | 1 | 0 | 0 | 1 | 1 | 19 |
+| 90d | 2026-06-22 | 2 | 0 | 0 | 1 | 1 | 21 |
+| last180d | 2026-03-24 | 4 | 2 | 0 | 4 | 1 | 63 |
+| 360d | 2025-09-25 | 17 | 5 | 0 | 6 | 1 | 350 |
+| last720d | 2024-09-30 | 46 | 12 | 0 | 11 | 2 | 718 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for httm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:18:34Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:15:35Z._
