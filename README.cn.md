@@ -4,7 +4,7 @@
 
 Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)
 
-[![x-cmd/install — httm Code Quality Monitoring Repo Card](https://repo.x-cmd.io/httm.svg?lang=zh)](https://x-cmd.com/install/httm)
+[![x-cmd/install — httm Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/httm.svg?lang=zh)](https://x-cmd.com/install/httm)
 
 ## 安装
 
@@ -48,12 +48,12 @@ x install httm
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 0 | 0 | 0 | 1 | 5 |
-| last60d | 2026-07-24 | 1 | 0 | 0 | 1 | 1 | 19 |
-| 90d | 2026-06-24 | 2 | 0 | 0 | 1 | 1 | 21 |
-| last180d | 2026-03-26 | 4 | 2 | 0 | 4 | 1 | 63 |
-| 360d | 2025-09-27 | 17 | 5 | 0 | 6 | 1 | 350 |
-| last720d | 2024-10-02 | 46 | 12 | 0 | 11 | 2 | 718 |
+| 30d | 2026-08-24 | 1 | 0 | 0 | 0 | 1 | 5 |
+| last60d | 2026-07-25 | 1 | 0 | 0 | 1 | 1 | 19 |
+| 90d | 2026-06-25 | 2 | 0 | 0 | 1 | 1 | 21 |
+| last180d | 2026-03-27 | 4 | 2 | 0 | 4 | 1 | 63 |
+| 360d | 2025-09-28 | 17 | 5 | 0 | 6 | 1 | 350 |
+| last720d | 2024-10-03 | 46 | 12 | 0 | 11 | 2 | 715 |
 
 ## Release 资产
 
@@ -71,4 +71,4 @@ httm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:27:19Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:29:30Z._
