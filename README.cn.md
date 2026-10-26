@@ -14,12 +14,12 @@ x install httm
 
 ## 代码洞察
 
-合计: **16,154** 行代码（覆盖前 5 种语言、共 **48** 个文件）。
+合计: **15,953** 行代码（覆盖前 5 种语言、共 **48** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 8,914 | 1,082 | 1,386 | 37 |
-| Html | 5,714 | 0 | 934 | 1 |
+| Rust | 9,009 | 1,082 | 1,396 | 37 |
+| Html | 5,418 | 0 | 910 | 1 |
 | Bash | 1,221 | 201 | 267 | 7 |
 | Toml | 182 | 2 | 21 | 2 |
 | Handlebars | 72 | 0 | 11 | 1 |
@@ -32,44 +32,44 @@ x install httm
 
 ## 发布
 
-- **最新版本**: `0.51.0` (2026-09-18)
+- **最新版本**: `0.51.1` (2026-10-25)
 - **最近提交**: 2026-10-25
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 1,668 · **Fork**: 36 · **开放 issue**: 63 · **贡献者**: 5
+- **Star**: 1,669 · **Fork**: 36 · **开放 issue**: 63 · **贡献者**: 5
 
 ## 累计统计
 
-- **发布数**: 174 · **已合并 PR**: 91 · **开放 PR**: 0 · **已关闭 issue**: 57 · **开放 issue**: 6 · **提交数**: 4719
+- **发布数**: 175 · **已合并 PR**: 91 · **开放 PR**: 0 · **已关闭 issue**: 57 · **开放 issue**: 6 · **提交数**: 4732
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 9 |
-| last60d | 2026-08-26 | 1 | 0 | 0 | 0 | 1 | 12 |
-| 90d | 2026-07-27 | 1 | 0 | 0 | 0 | 1 | 28 |
-| last180d | 2026-04-28 | 4 | 2 | 0 | 3 | 1 | 67 |
-| 360d | 2025-10-30 | 4 | 2 | 0 | 5 | 1 | 134 |
-| last720d | 2024-11-04 | 46 | 12 | 0 | 10 | 1 | 723 |
+| 30d | 2026-09-26 | 1 | 0 | 0 | 0 | 0 | 22 |
+| last60d | 2026-08-27 | 2 | 0 | 0 | 0 | 1 | 25 |
+| 90d | 2026-07-28 | 2 | 0 | 0 | 0 | 1 | 41 |
+| last180d | 2026-04-29 | 5 | 2 | 0 | 3 | 1 | 80 |
+| 360d | 2025-10-31 | 5 | 2 | 0 | 5 | 1 | 147 |
+| last720d | 2024-11-05 | 47 | 12 | 0 | 10 | 1 | 736 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [httm-0.51.0-2.x86_64.rpm](https://github.com/kimono-koans/httm/releases/download/0.51.0/httm-0.51.0-2.x86_64.rpm) | 5.5 MiB | `runtime/rpm/x86_64` |
-| [httm_0.51.0-1_amd64.deb](https://github.com/kimono-koans/httm/releases/download/0.51.0/httm_0.51.0-1_amd64.deb) | 5.2 MiB | `runtime/deb/amd64` |
+| [httm-0.51.1-2.x86_64.rpm](https://github.com/kimono-koans/httm/releases/download/0.51.1/httm-0.51.1-2.x86_64.rpm) | 5.6 MiB | `runtime/rpm/x86_64` |
+| [httm_0.51.1-1_amd64.deb](https://github.com/kimono-koans/httm/releases/download/0.51.1/httm_0.51.1-1_amd64.deb) | 5.3 MiB | `runtime/deb/amd64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/httm) 上共有 **30** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**23** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/httm) 上共有 **30** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**27** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `0.51.0` | ✅ latest |
-| Nix unstable | `0.51.0` | ✅ latest |
+| Homebrew | `0.51.1` | ✅ latest |
+| Nix unstable | `0.51.0` | ⚠️ outdated |
 | Alpine edge | `0.49.9` | ⚠️ outdated |
 
 ## 改进这些数据
@@ -81,4 +81,4 @@ httm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261025.yml` · 2026-10-25T05:43:22Z._
+_数据快照: `data/card/261026.yml` · 2026-10-26T05:49:52Z._
