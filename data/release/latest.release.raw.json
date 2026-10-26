@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/kimono-koans/httm/releases/391213700",
-  "assets_url": "https://api.github.com/repos/kimono-koans/httm/releases/391213700/assets",
-  "upload_url": "https://uploads.github.com/repos/kimono-koans/httm/releases/391213700/assets{?name,label}",
-  "html_url": "https://github.com/kimono-koans/httm/releases/tag/0.51.0",
-  "id": 391213700,
+  "url": "https://api.github.com/repos/kimono-koans/httm/releases/423737802",
+  "assets_url": "https://api.github.com/repos/kimono-koans/httm/releases/423737802/assets",
+  "upload_url": "https://uploads.github.com/repos/kimono-koans/httm/releases/423737802/assets{?name,label}",
+  "html_url": "https://github.com/kimono-koans/httm/releases/tag/0.51.1",
+  "id": 423737802,
   "author": {
     "login": "kimono-koans",
     "id": 32370782,
@@ -25,22 +25,22 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOG9pmz84XUXKE",
-  "tag_name": "0.51.0",
+  "node_id": "RE_kwDOG9pmz84ZQbnK",
+  "tag_name": "0.51.1",
   "target_commitish": "master",
-  "name": "0.51.0",
+  "name": "0.51.1",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-18T04:18:10Z",
-  "updated_at": "2026-09-18T04:22:06Z",
-  "published_at": "2026-09-18T04:19:34Z",
+  "created_at": "2026-10-25T23:55:31Z",
+  "updated_at": "2026-10-25T23:58:30Z",
+  "published_at": "2026-10-25T23:56:18Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/kimono-koans/httm/releases/assets/571794422",
-      "id": 571794422,
-      "node_id": "RA_kwDOG9pmz84iFOP2",
-      "name": "httm-0.51.0-2.x86_64.rpm",
+      "url": "https://api.github.com/repos/kimono-koans/httm/releases/assets/676467105",
+      "id": 676467105,
+      "node_id": "RA_kwDOG9pmz84oUhGh",
+      "name": "httm-0.51.1-2.x86_64.rpm",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -65,18 +65,18 @@
       },
       "content_type": "application/x-redhat-package-manager",
       "state": "uploaded",
-      "size": 5770346,
-      "digest": "sha256:2ed4c17c69c0da2ad99cdaeb6d8906e10e2cc1c3e85278aa90682060d3b26dd7",
-      "download_count": 9,
-      "created_at": "2026-09-18T04:22:05Z",
-      "updated_at": "2026-09-18T04:22:06Z",
-      "browser_download_url": "https://github.com/kimono-koans/httm/releases/download/0.51.0/httm-0.51.0-2.x86_64.rpm"
+      "size": 5828374,
+      "digest": "sha256:3ee93aecf56b1d6e96d3d573b7b43a722710d080b403c7631dffe3241a119955",
+      "download_count": 0,
+      "created_at": "2026-10-25T23:58:29Z",
+      "updated_at": "2026-10-25T23:58:30Z",
+      "browser_download_url": "https://github.com/kimono-koans/httm/releases/download/0.51.1/httm-0.51.1-2.x86_64.rpm"
     },
     {
-      "url": "https://api.github.com/repos/kimono-koans/httm/releases/assets/571794423",
-      "id": 571794423,
-      "node_id": "RA_kwDOG9pmz84iFOP3",
-      "name": "httm_0.51.0-1_amd64.deb",
+      "url": "https://api.github.com/repos/kimono-koans/httm/releases/assets/676467107",
+      "id": 676467107,
+      "node_id": "RA_kwDOG9pmz84oUhGj",
+      "name": "httm_0.51.1-1_amd64.deb",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -101,27 +101,15 @@
       },
       "content_type": "application/x-debian-package",
       "state": "uploaded",
-      "size": 5450828,
-      "digest": "sha256:2cf811bc3848a9b21e296e1f42e080a8271217025fecb86f080e09eea6277760",
-      "download_count": 169,
-      "created_at": "2026-09-18T04:22:05Z",
-      "updated_at": "2026-09-18T04:22:06Z",
-      "browser_download_url": "https://github.com/kimono-koans/httm/releases/download/0.51.0/httm_0.51.0-1_amd64.deb"
+      "size": 5508988,
+      "digest": "sha256:a9963cd88db1f1efe0e3e84f1888f85c114f4b196a717a14f7705278fb5b9857",
+      "download_count": 2,
+      "created_at": "2026-10-25T23:58:29Z",
+      "updated_at": "2026-10-25T23:58:30Z",
+      "browser_download_url": "https://github.com/kimono-koans/httm/releases/download/0.51.1/httm_0.51.1-1_amd64.deb"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/kimono-koans/httm/tarball/0.51.0",
-  "zipball_url": "https://api.github.com/repos/kimono-koans/httm/zipball/0.51.0",
-  "body": "**Full Changelog**: https://github.com/kimono-koans/httm/compare/0.50.2...0.51.0",
-  "reactions": {
-    "url": "https://api.github.com/repos/kimono-koans/httm/releases/391213700/reactions",
-    "total_count": 2,
-    "+1": 2,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 0,
-    "eyes": 0
-  }
+  "tarball_url": "https://api.github.com/repos/kimono-koans/httm/tarball/0.51.1",
+  "zipball_url": "https://api.github.com/repos/kimono-koans/httm/zipball/0.51.1",
+  "body": "**Full Changelog**: https://github.com/kimono-koans/httm/compare/0.51.0...0.51.1"
 }
