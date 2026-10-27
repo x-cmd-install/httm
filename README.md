@@ -14,11 +14,11 @@ x install httm
 
 ## Code insight
 
-Total: **15,953** lines of code across **48** files in the top 5 languages.
+Total: **15,955** lines of code across **48** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 9,009 | 1,082 | 1,396 | 37 |
+| Rust | 9,011 | 1,082 | 1,396 | 37 |
 | Html | 5,418 | 0 | 910 | 1 |
 | Bash | 1,221 | 201 | 267 | 7 |
 | Toml | 182 | 2 | 21 | 2 |
@@ -33,7 +33,7 @@ Total: **15,953** lines of code across **48** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.51.1` (2026-10-25)
-- **Last commit**: 2026-10-25
+- **Last commit**: 2026-10-26
 - **Assets in release**: 2
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **15,953** lines of code across **48** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 175 · **Merged PRs**: 91 · **Open PRs**: 0 · **Closed issues**: 57 · **Open issues**: 6 · **Commits**: 4732
+- **Releases**: 175 · **Merged PRs**: 91 · **Open PRs**: 0 · **Closed issues**: 57 · **Open issues**: 6 · **Commits**: 4733
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 1 | 0 | 0 | 0 | 0 | 22 |
-| last60d | 2026-08-27 | 2 | 0 | 0 | 0 | 1 | 25 |
-| 90d | 2026-07-28 | 2 | 0 | 0 | 0 | 1 | 41 |
-| last180d | 2026-04-29 | 5 | 2 | 0 | 3 | 1 | 80 |
-| 360d | 2025-10-31 | 5 | 2 | 0 | 5 | 1 | 147 |
-| last720d | 2024-11-05 | 47 | 12 | 0 | 10 | 1 | 736 |
+| 30d | 2026-09-27 | 1 | 0 | 0 | 0 | 0 | 23 |
+| last60d | 2026-08-28 | 2 | 0 | 0 | 0 | 1 | 26 |
+| 90d | 2026-07-29 | 2 | 0 | 0 | 0 | 1 | 42 |
+| last180d | 2026-04-30 | 5 | 2 | 0 | 3 | 1 | 81 |
+| 360d | 2025-11-01 | 5 | 2 | 0 | 5 | 1 | 148 |
+| last720d | 2024-11-06 | 47 | 12 | 0 | 10 | 1 | 737 |
 
 ## Release assets
 
@@ -64,7 +64,7 @@ Total: **15,953** lines of code across **48** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **30** distros on [repology.org](https://repology.org/project/httm). **1** are ✅ on the latest upstream release, **27** are ⚠️ on an older version.
+Reported by **30** distros on [repology.org](https://repology.org/project/httm). **3** are ✅ on the latest upstream release, **25** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -81,4 +81,4 @@ Install metadata for httm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:49:52Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T06:16:40Z._
