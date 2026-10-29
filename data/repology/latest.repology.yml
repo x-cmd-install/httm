@@ -1,13 +1,14 @@
-- repo: aur
-  srcname: httm-git
-  binname: httm-git
-  visiblename: httm-git
-  version: r4710.52e9d9c8
-  origversion: r4710.52e9d9c8-1
-  status: rolling
-  summary: Prints the size, date and locations of available unique versions (deduplicated by modify time and size) of files residing on ZFS, BTRFS, or NILFS snapshots.
+- repo: alpine_3_17
+  subrepo: community
+  srcname: httm
+  binname: httm
+  visiblename: httm
+  version: 0.17.5
+  origversion: 0.17.5-r0
+  status: outdated
+  summary: Interactive, file-level Time Machine-like tool for ZFS/btrfs
   maintainers:
-    - xgjmibzr@aur
+    - jakub@jirutka.cz
   licenses:
     - MPL-2.0
 - repo: alpine_3_17
@@ -19,19 +20,6 @@
   origversion: 0.17.5-r0
   status: outdated
   summary: Interactive, file-level Time Machine-like tool for ZFS/btrfs (documentation)
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - MPL-2.0
-- repo: alpine_3_17
-  subrepo: community
-  srcname: httm
-  binname: httm
-  visiblename: httm
-  version: 0.17.5
-  origversion: 0.17.5-r0
-  status: outdated
-  summary: Interactive, file-level Time Machine-like tool for ZFS/btrfs
   maintainers:
     - jakub@jirutka.cz
   licenses:
@@ -268,6 +256,18 @@
     - xgjmibzr@aur
   licenses:
     - MPL-2.0
+- repo: aur
+  srcname: httm-git
+  binname: httm-git
+  visiblename: httm-git
+  version: r4710.52e9d9c8
+  origversion: r4710.52e9d9c8-1
+  status: rolling
+  summary: Prints the size, date and locations of available unique versions (deduplicated by modify time and size) of files residing on ZFS, BTRFS, or NILFS snapshots.
+  maintainers:
+    - xgjmibzr@aur
+  licenses:
+    - MPL-2.0
 - repo: freebsd
   srcname: sysutils/httm
   binname: httm
@@ -352,9 +352,9 @@
 - repo: nix_unstable
   srcname: httm
   visiblename: httm
-  version: 0.51.0
+  version: 0.51.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Interactive, file-level Time Machine-like tool for ZFS/btrfs
   maintainers:
     - wyndon@github
