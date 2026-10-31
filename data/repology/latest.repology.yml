@@ -272,9 +272,9 @@
   srcname: sysutils/httm
   binname: httm
   visiblename: sysutils/httm
-  version: 0.51.0
-  origversion: 0.51.0_1
-  status: outdated
+  version: 0.51.1
+  origversion: null
+  status: newest
   summary: Dream of a CLI Time Machine
   maintainers:
     - bofh@freebsd.org
