@@ -14,11 +14,11 @@ x install httm
 
 ## Code insight
 
-Total: **16,119** lines of code across **48** files in the top 5 languages.
+Total: **16,112** lines of code across **48** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 9,174 | 1,083 | 1,438 | 37 |
+| Rust | 9,167 | 1,081 | 1,438 | 37 |
 | Html | 5,418 | 0 | 910 | 1 |
 | Bash | 1,221 | 201 | 267 | 7 |
 | Toml | 183 | 2 | 21 | 2 |
@@ -38,22 +38,22 @@ Total: **16,119** lines of code across **48** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,671 · **Forks**: 36 · **Open issues**: 63 · **Contributors**: 5
+- **Stars**: 1,670 · **Forks**: 36 · **Open issues**: 63 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 175 · **Merged PRs**: 91 · **Open PRs**: 0 · **Closed issues**: 57 · **Open issues**: 6 · **Commits**: 4792
+- **Releases**: 175 · **Merged PRs**: 91 · **Open PRs**: 0 · **Closed issues**: 57 · **Open issues**: 6 · **Commits**: 4797
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 1 | 0 | 0 | 0 | 0 | 82 |
-| last60d | 2026-09-07 | 2 | 0 | 0 | 0 | 1 | 85 |
-| 90d | 2026-08-08 | 2 | 0 | 0 | 0 | 1 | 101 |
-| last180d | 2026-05-10 | 5 | 2 | 0 | 3 | 1 | 140 |
-| 360d | 2025-11-11 | 5 | 2 | 0 | 5 | 1 | 196 |
-| last720d | 2024-11-16 | 47 | 12 | 0 | 10 | 1 | 796 |
+| 30d | 2026-10-08 | 1 | 0 | 0 | 0 | 0 | 87 |
+| last60d | 2026-09-08 | 2 | 0 | 0 | 0 | 1 | 90 |
+| 90d | 2026-08-09 | 2 | 0 | 0 | 0 | 1 | 106 |
+| last180d | 2026-05-11 | 5 | 2 | 0 | 3 | 1 | 145 |
+| 360d | 2025-11-12 | 5 | 2 | 0 | 5 | 1 | 201 |
+| last720d | 2024-11-17 | 47 | 12 | 0 | 10 | 1 | 801 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for httm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T08:12:02Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:07:29Z._
