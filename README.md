@@ -48,12 +48,12 @@ Total: **16,112** lines of code across **48** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 0 | 0 | 0 | 0 | 64 |
-| last60d | 2026-09-25 | 1 | 0 | 0 | 0 | 0 | 87 |
-| 90d | 2026-08-26 | 2 | 0 | 0 | 0 | 1 | 91 |
-| last180d | 2026-05-28 | 5 | 2 | 0 | 2 | 1 | 145 |
-| 360d | 2025-11-29 | 5 | 2 | 0 | 5 | 1 | 181 |
-| last720d | 2024-12-04 | 47 | 12 | 0 | 9 | 1 | 798 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 64 |
+| last60d | 2026-09-26 | 1 | 0 | 0 | 0 | 0 | 87 |
+| 90d | 2026-08-27 | 2 | 0 | 0 | 0 | 1 | 91 |
+| last180d | 2026-05-29 | 5 | 2 | 0 | 2 | 1 | 145 |
+| 360d | 2025-11-30 | 5 | 2 | 0 | 5 | 1 | 181 |
+| last720d | 2024-12-05 | 47 | 12 | 0 | 9 | 1 | 798 |
 
 ## Release assets
 
@@ -61,16 +61,6 @@ Total: **16,112** lines of code across **48** files in the top 5 languages.
 |-------|-----:|--------|
 | [httm-0.51.1-2.x86_64.rpm](https://github.com/kimono-koans/httm/releases/download/0.51.1/httm-0.51.1-2.x86_64.rpm) | 5.6 MiB | `runtime/rpm/x86_64` |
 | [httm_0.51.1-1_amd64.deb](https://github.com/kimono-koans/httm/releases/download/0.51.1/httm_0.51.1-1_amd64.deb) | 5.3 MiB | `runtime/deb/amd64` |
-
-## Distribution status
-
-Reported by **30** distros on [repology.org](https://repology.org/project/httm). **5** are ✅ on the latest upstream release, **23** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.51.1` | ✅ latest |
-| Nix unstable | `0.51.1` | ✅ latest |
-| Alpine edge | `0.49.9` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -81,4 +71,4 @@ Install metadata for httm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:33:50Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:53:55Z._
